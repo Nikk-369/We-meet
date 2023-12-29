@@ -1,0 +1,10 @@
+.sidebar {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+  padding: 8px 0px;
+  color: #616161;
+  cursor: pointer;
+}
